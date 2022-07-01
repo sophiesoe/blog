@@ -1,0 +1,1 @@
+<h1>Hello, there's an update on "{{ $blog->title }}"</h1> 
